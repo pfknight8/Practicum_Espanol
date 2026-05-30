@@ -67,6 +67,6 @@ These are the verbs that do not fit into any particular pattern, and will have t
 
 | Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes |
 |:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|
-|  |  |  |  |  |  |  |
+| Ser/Ir     | fui        | fuiste     | fue           | fuimos     | fuisteis   | fueron           |
 
 ## Examples
