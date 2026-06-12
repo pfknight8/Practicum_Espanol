@@ -55,3 +55,15 @@
 | Workshop        | taller             | el      |
 | Deck (backyard) | terraza            | la      | <- Also a terrace
 | Deck (of a ship)| cubierta           | la      |
+
+### Persons
+
+| English            | Español            |
+|:------------------:|:------------------:|
+| Landlord           | Casero             |
+| Doorman            | Portero            |
+| Concierge          | Recepcionista      |
+| Janitor            | Conserje/Bedel     |
+| Electrician        | Electricista       |
+| Maintenance worker | Encargado          |
+| Manager            | Gerente            |

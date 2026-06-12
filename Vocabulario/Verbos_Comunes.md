@@ -41,13 +41,21 @@ Vocabulary list of verbs
 
 - To want
 
+### Necesitar
+
+- To need
+
 ### Venir
 
 - To come
 
-### LLegar
+### Llegar
 
 - To arrive
+
+### Llevar
+
+- To carry
 
 ### Saltir
 
