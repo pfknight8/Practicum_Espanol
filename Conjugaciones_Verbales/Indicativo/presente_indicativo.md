@@ -36,44 +36,59 @@ There are many irregular verbs, some of which fall into the sort of "regular irr
 
 #### *E to IE group*
 
-| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes |
-|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|
-| Pensar     | pienso     | piensas    | piensa        | pensamos   | pensáis    | piensan          |
+| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes | English       |
+|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|:--------------|
+| Pensar     | pienso     | piensas    | piensa        | pensamos   | pensáis    | piensan          | to think      |
+| Querer     | quiero     | quieres    | quiere        | queremos   | queréis    | quieren          | to want       |
 
 #### *E to I group*
 
-| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes |
-|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|
-| Pedir      | pido       | pides      | pide          | pedimos    | pedís      | piden            |
+| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes | English          |
+|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|:-----------------|
+| Pedir      | pido       | pides      | pide          | pedimos    | pedís      | piden            | to ask for/order |
 
 #### *O to UE" group*
 
-| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes |
-|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|
-| Poder      | puedo      | puedes     | puede         | podemos    | podéis     | pueden           |
+| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes | English        |
+|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|:---------------|
+| Dormir     | duermo     | duermes    | duerme        | dormimos   | dormís     | duermen          | to sleep       |
+| Poder      | puedo      | puedes     | puede         | podemos    | podéis     | pueden           | to be able     |
+| Volver     | vuelvo     | vuelves    | vuelve        | volvemos   | volvéis    | vuelven          | to return      |
 
 #### *U to UE" group*
 
-| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes |
-|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|
-| Jugar      | juego      | juegas     | juega         | jugamos    | jugáis     | juegan           |
+| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes | English       |
+|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|:--------------|
+| Jugar      | juego      | juegas     | juega         | jugamos    | jugáis     | juegan           | to play       |
 
 #### *"-go" group*
 
-| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes |
-|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|
-|       |       |            |             |       |      |              |
+| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes | English        |
+|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|:---------------|
+| Hacer      | hago       | haces      | hace          | hacemos    | hacéis     | hacen            | to make/do     |
+| Poner      | pongo      | pones      | pone          | ponemos    | ponéis     | ponen            | to put/place   |
 
 #### *"-zco" group*
 
-| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes |
-|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|
-| Conocer    | conozco    | conoces    | conoce        | conocemos  | conocéis   | conocen          |
+| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes | English             |
+|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|:--------------------|
+| Conocer    | conozco    | conoces    | conoce        | conocemos  | conocéis   | conocen          | to be familiar with |
+
+#### *-go with stem change*
+
+| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes | Notes |
+|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|:------|
+| Tener      | tengo      | tienes     | tiene         | tenemos    | tenéis     | tienen           | -er E -> IE with '-go' |
+| Vener      | vengo      | vienes     | viene         | venimos    | venís      | vienen           | -ir E -> IE with '-go' |
+| Decir      | digo       | dices      | dice          | decimos    | decís      | dicen            | -ir E -> I with -go |
 
 #### *Fully Irregular*
 
-| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes |
-|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|
-| Ir         | voy        | vas        | va            | vamos      | vais       | van              |
-| Estar      | estoy      | estás      | está          | estamos    | estáis     | están            |
-| Ser        | soy        | eres       | es            | somos      | sois       | son              |
+| Verb       | Yo         | Tu         | Él/Ella/Usted | Nosotros   | Vosotros   | Ellos/as/Ustedes | Notes |
+|:-----------|:----------:|:----------:|:-------------:|:----------:|:----------:|:----------------:|:------|
+| Dar        | doy        | das        | da            | damos      | dais       | dan              ||
+| Estar      | estoy      | estás      | está          | estamos    | estáis     | están            ||
+| Haber      | he         | has        | ha            | hemos      | habéis     | han              | also "hay" for "there is/are" |
+| Ir         | voy        | vas        | va            | vamos      | vais       | van              ||
+| Saber      | sé         | sabes      | sabe          | sabemos    | sabéis     | saben            |  |
+| Ser        | soy        | eres       | es            | somos      | sois       | son              ||
